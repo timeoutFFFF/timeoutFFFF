@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+### projects
+- [macos_browsers_secrets_stealer](https://github.com/timeoutFFFF/macos_browsers_secrets_stealer): This reads and decrypts macos browser stored secrets such as passwords, credit cards number and cookies.
+- [Scripts]https://github.com/timeoutFFFF/Scripts: A collection of scripts. 
+
 <!--
 **timeoutFFFF/timeoutFFFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
