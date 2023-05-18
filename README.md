@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My [notes](https://notes.binrop.pw/)
 
 ### projects
 - [macos_browsers_secrets_stealer](https://github.com/timeoutFFFF/macos_browsers_secrets_stealer): This reads and decrypts macos browser stored secrets such as passwords, credit cards number and cookies.
